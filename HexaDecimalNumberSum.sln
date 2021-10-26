@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaDecimalNumberSum", "HexaDecimalNumberSum.csproj", "{3A64D670-7FDC-4F20-8671-8335387FB2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A64D670-7FDC-4F20-8671-8335387FB2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A64D670-7FDC-4F20-8671-8335387FB2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A64D670-7FDC-4F20-8671-8335387FB2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A64D670-7FDC-4F20-8671-8335387FB2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF9DE0E-A9D0-4A63-A1E5-DB28570ADF0D}
+	EndGlobalSection
+EndGlobal
